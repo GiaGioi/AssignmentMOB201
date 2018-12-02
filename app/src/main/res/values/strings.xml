@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HoTroHocTap</string>
+    <string name="tvCourse">Course</string>
+    <string name="tvMap">Map</string>
+    <string name="tvNew">New</string>
+    <string name="DailyNew">DaiLyNews</string>
+    <string name="DailyNews">DailyNews</string>
+    <string name="CourseRegistration">Course Registration</string>
+    <string name="MyCourse">My Course</string>
+    <string name="tvSocial">Social</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="facebook_app_id">346593762491683</string>
+    <string name="fb_login_protocol_scheme">fb346593762491683</string>
+</resources>
